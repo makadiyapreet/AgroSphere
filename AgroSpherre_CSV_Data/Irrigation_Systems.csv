@@ -1,0 +1,49 @@
+system_id,field_id,type,install_date,water_usage_gallons,optimization_tip
+1,116,Sprinkler,2023-08-26,7938,Reduce by 10%
+2,34,Flood,2024-07-06,8392,Schedule at night
+3,31,Sprinkler,2024-06-11,5723,Reduce by 10%
+4,90,Sprinkler,2022-10-10,2507,Check leaks
+5,98,Sprinkler,2021-09-16,7406,Check leaks
+6,77,Sprinkler,2022-04-15,9127,Schedule at night
+7,7,Flood,2022-02-18,9892,Schedule at night
+8,101,Drip,2022-01-11,5979,Schedule at night
+9,48,Drip,2021-06-04,6411,Check leaks
+10,9,Sprinkler,2022-02-18,8030,Check leaks
+11,69,Flood,2024-08-11,7862,Schedule at night
+12,119,Flood,2021-02-10,5385,Check leaks
+13,26,Sprinkler,2023-02-24,4746,Check leaks
+14,119,Sprinkler,2023-09-03,9962,Schedule at night
+15,81,Drip,2024-10-16,7823,Schedule at night
+16,28,Sprinkler,2022-03-13,5910,Check leaks
+17,41,Drip,2020-11-11,1480,Check leaks
+18,104,Sprinkler,2022-08-26,6978,Check leaks
+19,61,Drip,2022-11-06,5763,Reduce by 10%
+20,21,Flood,2022-04-16,4578,Check leaks
+21,107,Flood,2021-05-30,5927,Reduce by 10%
+22,112,Flood,2022-05-31,6524,Check leaks
+23,5,Sprinkler,2020-02-18,6006,Schedule at night
+24,103,Drip,2022-01-09,1522,Check leaks
+25,23,Flood,2021-07-05,7568,Schedule at night
+26,22,Flood,2024-08-11,1134,Reduce by 10%
+27,59,Drip,2021-07-28,3821,Check leaks
+28,98,Drip,2023-03-07,1748,Check leaks
+29,60,Sprinkler,2021-04-10,9028,Reduce by 10%
+30,109,Flood,2021-10-06,5417,Check leaks
+31,101,Sprinkler,2023-09-27,1078,Reduce by 10%
+32,72,Drip,2020-05-09,7909,Reduce by 10%
+33,43,Flood,2021-12-20,2801,Schedule at night
+34,5,Flood,2020-09-28,1079,Schedule at night
+35,44,Drip,2023-09-09,4030,Check leaks
+36,13,Sprinkler,2021-03-05,6626,Reduce by 10%
+37,114,Drip,2020-10-12,8602,Check leaks
+38,34,Flood,2023-11-07,4809,Reduce by 10%
+39,97,Sprinkler,2023-06-24,6416,Reduce by 10%
+40,11,Flood,2024-01-24,2647,Reduce by 10%
+41,19,Drip,2023-09-07,6776,Check leaks
+42,4,Sprinkler,2024-11-14,3733,Schedule at night
+43,46,Drip,2024-12-17,8548,Schedule at night
+44,20,Flood,2022-06-08,7230,Reduce by 10%
+45,104,Flood,2021-12-05,2818,Check leaks
+46,7,Flood,2022-01-14,9124,Reduce by 10%
+47,68,Drip,2023-02-08,6735,Schedule at night
+48,38,Sprinkler,2020-06-13,5252,Check leaks

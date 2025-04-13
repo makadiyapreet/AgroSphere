@@ -1,0 +1,97 @@
+outlet_id,name,location,type,certification_type,cert_expiry_date,center_id
+1,"Solis, White and Oconnell Store",Port Justin,Grocery,HACCP,2026-01-31,1
+2,Jordan-Jackson Store,South Connieshire,Grocery,HACCP,2025-03-19,2
+3,Kent Inc Store,Coltonshire,Co-op,Fair Trade,2025-06-20,7
+4,Martinez Group Store,East Patrick,Co-op,Fair Trade,2025-01-23,6
+5,"Coleman, Bridges and Smith Store",Lake Emilyfort,Market,HACCP,2026-12-28,11
+6,Huff-Wu Store,Baileyland,Market,HACCP,2025-12-26,5
+7,Thompson and Sons Store,East David,Grocery,Fair Trade,2026-02-12,9
+8,Crane-Griffin Store,Lake Michael,Grocery,HACCP,2026-06-03,5
+9,"Lee, Bennett and Rollins Store",New Anthony,Grocery,HACCP,2026-04-08,2
+10,"Skinner, Edwards and Ferguson Store",Thompsonville,Market,USDA Organic,2025-07-23,5
+11,Brown-Ryan Store,Ruizshire,Co-op,HACCP,2026-10-10,11
+12,Brown-Becker Store,Hooverfort,Market,HACCP,2025-12-13,10
+13,Case-Snyder Store,New Nathanmouth,Market,Fair Trade,2026-02-25,7
+14,"Lindsey, Mays and Winters Store",Franklinfort,Grocery,USDA Organic,2025-08-25,1
+15,"Blevins, Shepherd and Maynard Store",Robertchester,Grocery,USDA Organic,2026-09-08,7
+16,Randall Ltd Store,Seantown,Co-op,USDA Organic,2025-06-05,8
+17,Zavala PLC Store,Susanshire,Grocery,USDA Organic,2026-06-20,7
+18,"Barker, Gardner and Weaver Store",North Richard,Co-op,HACCP,2025-10-01,11
+19,Davis-Holloway Store,New Melissaberg,Grocery,Fair Trade,2025-04-12,11
+20,Harris PLC Store,Powersshire,Co-op,HACCP,2025-08-01,7
+21,Hill LLC Store,Acostaside,Co-op,USDA Organic,2026-07-02,6
+22,Reeves-Harper Store,Hillberg,Co-op,USDA Organic,2026-08-18,6
+23,Riddle-Moses Store,Matthewshire,Co-op,Fair Trade,2026-04-07,1
+24,Perez and Sons Store,New Suzanne,Co-op,USDA Organic,2025-09-22,1
+25,Dalton-Bryant Store,Smithchester,Co-op,Fair Trade,2026-08-11,2
+26,Rodriguez Inc Store,Estradabury,Market,Fair Trade,2026-01-05,1
+27,Goodman Inc Store,Anthonyburgh,Co-op,USDA Organic,2025-03-13,4
+28,Orozco PLC Store,Cameronmouth,Market,Fair Trade,2025-09-23,1
+29,Palmer-Nunez Store,Williamsburgh,Grocery,HACCP,2026-06-25,11
+30,Burns-Hampton Store,New Kathleenside,Market,Fair Trade,2025-10-06,4
+31,Lopez PLC Store,South Patrick,Co-op,HACCP,2026-04-20,1
+32,"Harvey, Johnson and Hunt Store",New Paula,Grocery,Fair Trade,2026-03-07,3
+33,Neal and Sons Store,North Claytonton,Market,Fair Trade,2025-12-05,11
+34,Jimenez-Wilson Store,Fischermouth,Co-op,HACCP,2026-12-28,2
+35,"Peters, Calderon and Williams Store",West Jenniferton,Market,USDA Organic,2026-09-01,6
+36,Clark-Gilbert Store,Haydenbury,Market,HACCP,2026-09-20,7
+37,"Miller, Hernandez and Weaver Store",Velezbury,Market,Fair Trade,2025-12-04,5
+38,Freeman and Sons Store,Johnsonshire,Grocery,USDA Organic,2026-12-15,8
+39,Potter-Moran Store,East Kimberlyborough,Co-op,Fair Trade,2025-12-29,7
+40,"Barrett, Fowler and Parks Store",Pittstown,Grocery,HACCP,2025-12-18,3
+41,Price PLC Store,Whiteborough,Co-op,USDA Organic,2025-01-13,2
+42,Reyes PLC Store,Tammyhaven,Market,Fair Trade,2025-03-10,11
+43,Smith Inc Store,South Ericchester,Market,USDA Organic,2025-10-05,5
+44,"Sims, Mendoza and Martinez Store",Hughesburgh,Market,Fair Trade,2026-11-10,5
+45,Wilkins-Haas Store,Lake Frank,Co-op,HACCP,2026-08-23,3
+46,Dougherty-Stevens Store,Torrestown,Grocery,HACCP,2026-11-22,2
+47,Calderon-Lyons Store,Randystad,Market,Fair Trade,2025-08-06,9
+48,Diaz-Murray Store,Maryfort,Grocery,USDA Organic,2026-03-09,5
+49,Leon-Henderson Store,Bradfordmouth,Co-op,Fair Trade,2026-09-13,8
+50,Jensen and Sons Store,Jefferyshire,Co-op,USDA Organic,2026-12-05,11
+51,Foster LLC Store,Nicholsfort,Grocery,USDA Organic,2025-04-03,8
+52,White Ltd Store,Joshuabury,Grocery,HACCP,2026-07-24,2
+53,Hawkins-Mendoza Store,New Kevin,Grocery,Fair Trade,2026-12-31,10
+54,"Collins, Sloan and Jackson Store",Fryeside,Market,Fair Trade,2026-11-03,6
+55,"Thomas, Anderson and Lopez Store",West Carlaton,Market,HACCP,2025-03-18,4
+56,Cowan LLC Store,Patriciaberg,Grocery,HACCP,2026-08-03,5
+57,"Hill, Munoz and Garcia Store",South Johnview,Co-op,HACCP,2025-04-03,5
+58,"Myers, Miller and Bell Store",Port Whitneyburgh,Grocery,Fair Trade,2026-12-24,11
+59,"Russell, Webb and Butler Store",Lake Paulland,Grocery,HACCP,2025-12-26,3
+60,Gonzalez Inc Store,Daniellehaven,Co-op,USDA Organic,2026-10-18,4
+61,Washington-Roberson Store,Port Danielberg,Market,USDA Organic,2026-11-22,9
+62,Carrillo-Thomas Store,Kevinshire,Market,Fair Trade,2026-01-03,7
+63,Wells-Rivera Store,Hillmouth,Co-op,HACCP,2026-08-11,9
+64,Santiago Inc Store,West Travis,Grocery,Fair Trade,2025-08-02,1
+65,Morris-Jones Store,Piercetown,Grocery,HACCP,2025-11-30,7
+66,Bennett and Sons Store,North Markton,Market,Fair Trade,2026-04-13,8
+67,"Martin, Gutierrez and Harmon Store",North Jason,Grocery,USDA Organic,2025-12-16,9
+68,"Shaw, Long and Wright Store",Lamport,Co-op,USDA Organic,2025-03-08,9
+69,Garcia and Sons Store,South Kariberg,Market,USDA Organic,2026-11-23,9
+70,Wood-Medina Store,Ortegamouth,Co-op,HACCP,2025-03-16,1
+71,"Payne, Bradford and Reese Store",East Barbara,Market,Fair Trade,2026-08-14,2
+72,"Cox, Gray and Higgins Store",Lauramouth,Grocery,HACCP,2025-05-03,2
+73,"Braun, Nguyen and Browning Store",Davidfurt,Market,HACCP,2025-09-21,5
+74,Burke-Moore Store,New Karenborough,Market,Fair Trade,2026-10-28,2
+75,"Ryan, Willis and Murphy Store",New Mark,Grocery,Fair Trade,2026-06-01,4
+76,Cuevas and Sons Store,East Mark,Grocery,Fair Trade,2026-04-14,6
+77,"Davidson, Roach and Gentry Store",Youngbury,Market,USDA Organic,2025-11-06,8
+78,Davis Ltd Store,East Rachelfort,Grocery,Fair Trade,2026-11-18,9
+79,"Gregory, Parker and Knight Store",Bakerport,Co-op,Fair Trade,2025-12-11,3
+80,"Vargas, Dunn and Galvan Store",Karenshire,Grocery,HACCP,2026-11-17,8
+81,Wilson Inc Store,Brendaview,Market,Fair Trade,2026-11-22,8
+82,"Hart, Miller and Valencia Store",Harveyport,Market,USDA Organic,2025-02-27,8
+83,"Mclean, Manning and Mahoney Store",Lake Andreafort,Co-op,Fair Trade,2025-05-04,11
+84,Dennis LLC Store,Bruceview,Grocery,HACCP,2025-09-06,3
+85,Thompson-Sanchez Store,South Monica,Market,USDA Organic,2025-06-10,2
+86,Marshall-Cross Store,Port Jamie,Co-op,Fair Trade,2026-07-23,1
+87,"Lopez, Miller and Brown Store",Lake Richardfort,Co-op,USDA Organic,2025-06-19,7
+88,Payne-Hays Store,East Paulchester,Market,Fair Trade,2026-08-23,1
+89,Leach Inc Store,West Saramouth,Co-op,HACCP,2026-11-13,7
+90,Martin Ltd Store,Shannonport,Market,Fair Trade,2025-01-20,3
+91,Smith Ltd Store,Michaelburgh,Co-op,HACCP,2026-01-05,4
+92,"Goodwin, Krueger and Rodriguez Store",Port Nicolestad,Co-op,USDA Organic,2026-08-08,11
+93,"Warren, Jackson and Williams Store",North Dorothy,Market,HACCP,2025-03-06,7
+94,"Patterson, Scott and Chavez Store",Port Ricky,Market,HACCP,2026-11-16,9
+95,Walker-Hancock Store,South Jessica,Grocery,USDA Organic,2025-01-02,1
+96,Garza Group Store,North Linda,Grocery,Fair Trade,2026-04-29,1
