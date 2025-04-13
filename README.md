@@ -29,6 +29,8 @@ This project aims to revolutionize the food system using a structured and scalab
 - MySQL 8.0  
 - MySQL Workbench  
 - Mac Pages (for report writing)
+- Canva (for presentation)
+- draw.io (for 2nd ER diagram)
 
 ---
 
